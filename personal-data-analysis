@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Make some figures about computer usage using files in `~/data`.
+# Make some figures about computer usage.
 #
 
 # Directory data files are stored in.
